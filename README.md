@@ -1,2 +1,3 @@
-# SHAP-
-This is the one for implementing SHAP value
+# Probability Methological Method-
+## SHAP
+## Bayesian Network
